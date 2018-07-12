@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+  Fifteen-Puzzle.cpp
+d:\games\fifteen-puzzle\fifteen-puzzle\fifteen-puzzle\fifteen-puzzle.cpp(60): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+d:\games\fifteen-puzzle\fifteen-puzzle\fifteen-puzzle\fifteen-puzzle.cpp(63): warning C4244: "+=": konwersja z "float" do "int", możliwa utrata danych
+d:\games\fifteen-puzzle\fifteen-puzzle\fifteen-puzzle\fifteen-puzzle.cpp(79): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+  Fifteen-Puzzle.vcxproj -> D:\Games\Fifteen-Puzzle\Fifteen-Puzzle\x64\Debug\Fifteen-Puzzle.exe
+  Fifteen-Puzzle.vcxproj -> D:\Games\Fifteen-Puzzle\Fifteen-Puzzle\x64\Debug\Fifteen-Puzzle.pdb (Partial PDB)
